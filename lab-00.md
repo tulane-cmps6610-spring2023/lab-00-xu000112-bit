@@ -15,8 +15,9 @@ Refer back to the [README.md](README.md) for instruction on git, how to test you
 
 3. From our discussion, summarize what it means for an algorithm to be efficient.
 
-    **Enter your answer in answers.md**
+    **Calculate quick and occupy minimum resources of computer.**
 
 
 4.  Let's do some simple coding in Python. In `main.py`, complete the implementation of linear search with a partner using an IDE of your choice. You can test your implementation using the provided tests.
 
+    **Finished**
